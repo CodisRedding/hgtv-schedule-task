@@ -1,0 +1,17 @@
+fvContestId=5506
+fvEntryType=STANDARD
+fvSuccessPage=http://frontdoor.qa.psddev.com/hgtv-urban-oasis-2013-giveaway-thank-you
+fvErrorPage=http://frontdoor.qa.psddev.com/hgtv-urban-oasis-2013-giveaway-oops
+fvRId=
+fvFirst={fn}
+fvLast={ln}
+fvEmail={em}
+fvEmailConfirm={em}
+fvAddress1={ad}
+fvCity={ci}
+fvState=TN
+fvZip={zp}
+fvEvePhone={ph}
+fvGender={ge}
+fvBirthYear={by}
+fvOptIn31=att

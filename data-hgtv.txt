@@ -1,0 +1,17 @@
+fvContestId=5505
+fvEntryType=STANDARD
+fvSuccessPage=http://www.hgtv.com/hgtv-urban-oasis-2013-giveaway-thanks/package/index.html
+fvErrorPage=http://www.hgtv.com/hgtv-urban-oasis-2013-giveaway-oops/package/index.html
+fvRId=
+fvFirst={fn}
+fvLast={ln}
+fvEmail={em}
+fvEmailConfirm={em}
+fvAddress1={ad}
+fvCity={ci}
+fvState=TN
+fvZip={zp}
+fvEvePhone={ph}
+fvGender={ge}
+fvBirthYear={by}
+fvOptIn31=att

@@ -1,0 +1,10 @@
+@echo off
+echo "uninstalling..."
+rmdir /s /q "%HOMEDRIVE%%HOMEPATH%\hgtv-giveaway"
+del /s /q "%WINDIR%\System32\ssleay32.dll"
+del /s /q "%WINDIR%\System32\mk-ca-bundle.vbs"
+del /s /q "%WINDIR%\System32\libeay32.dll"
+del /s /q "%WINDIR%\System32\libcurl.dll"
+del /s /q "%WINDIR%\System32\curl.exe"
+schtasks /delete /tn "HGTV Urban Oasis 2013"
+echo "Complete"
