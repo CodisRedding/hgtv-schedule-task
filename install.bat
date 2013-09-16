@@ -12,8 +12,8 @@ xcopy /y "%~dp0data-hgtv.txt" "%HOMEDRIVE%%HOMEPATH%\hgtv-giveaway\"
 xcopy /y "%~dp0task-template.xml" "%HOMEDRIVE%%HOMEPATH%\hgtv-giveaway\"
 cd %HOMEDRIVE%%HOMEPATH%\hgtv-giveaway
 
-SET /P USERNAME="Enter GBHEM username: "
-SET /P PASSWORD="Enter GBHEM password: "
+SET /P USERNAME="Enter username: "
+SET /P PASSWORD="Enter password: "
 SET /P FN="Enter First Name: "
 SET /P LN="Enter Last Name: "
 SET /P EM="Enter EMail: "
